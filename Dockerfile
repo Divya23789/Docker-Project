@@ -1,0 +1,1 @@
+FROM brunux/chromeos:latest
